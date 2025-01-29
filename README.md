@@ -25,13 +25,17 @@ Defines a perform() method that must be implemented by all subclasses.
 
 Derived Classes:
 
-Addition: Performs addition of two numbers.
+Addition: 
+Performs addition of two numbers.
 
-Subtraction: Performs subtraction of two numbers.
+Subtraction:
+Performs subtraction of two numbers.
 
-Multiplication: Performs multiplication of two numbers.
+Multiplication: 
+Performs multiplication of two numbers.
 
-Division: Performs division of two numbers (with error handling for division by zero).
+Division: 
+Performs division of two numbers (with error handling for division by zero).
 
 Calculator Class:
 
