@@ -1,12 +1,20 @@
-Polymorphic Calculator in Python
+Polymorphic Calculator in Python:
+
 This repository contains a polymorphic calculator implemented in Python. The calculator demonstrates the power of polymorphism in Object-Oriented Programming (OOP) by allowing different mathematical operations (addition, subtraction, multiplication, and division) to be performed using the same interface.
 
 Features
-Polymorphism: The calculator uses polymorphism to perform different operations (addition, subtraction, multiplication, division) with the same interface.
 
-Extensible: New operations can be easily added by creating new subclasses of the Operation base class.
+Polymorphism:
 
-Error Handling: The division operation includes error handling for division by zero.
+The calculator uses polymorphism to perform different operations (addition, subtraction, multiplication, division) with the same interface.
+
+Extensible: 
+
+New operations can be easily added by creating new subclasses of the Operation base class.
+
+Error Handling: 
+
+The division operation includes error handling for division by zero.
 
 How It Works
 The calculator is built using the following components:
@@ -144,5 +152,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Connect with Me
+
 GitHub:https://github.com/hadi95383
+
 Email: hadikhan95383@gmail.com
